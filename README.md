@@ -32,10 +32,12 @@
 
 ## New Results
 - Summary of ride-sharing data by city type
+- 
 ![PyBer_Summary](https://user-images.githubusercontent.com/33010018/150711580-5ac53f8f-8131-4934-8dd6-152bdea5ebff.png)
 
 
 - Total weekly fares for each city type
+- 
 ![Fares_by_wk](https://user-images.githubusercontent.com/33010018/150711594-c7645b74-8444-40cf-a727-cbb90e197f57.png)
 
 - Urban cities have the highest total fares per week and the lowest average fare per ride ($24.53).
