@@ -4,11 +4,22 @@
 
 For this project, I analyzed data for ride sharing services to determine how often different types of cities use this service.  My goal is to figure out how ride sharing can be increased in underserved areas. 
 
+This project marks the first time I used Matplotlib.  Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.  Matplotlib can be used to do the following:
+
+- Create publication quality plots.
+- Make interactive figures that can zoom, pan, update.
+- Customize visual style and layout.
+- Export to many file formats.
+- Embed in JupyterLab and Graphical User Interfaces.
+- Use a rich array of third-party packages built on Matplotlib.
+
+I also used Numpy and SciPy to get the measures of central tendency and summary statistics for each city type.
+
 ### Tasks:
-    - Analyzed all ride share data from Jan to early May 2019.
-    - Created a visualization of my findings. (Matplotlib)
+    - Analyzed all ride share data from Jan to early May 2019. (Numpy, SciPy)
+    - Created a visualization of my findings with bubble charts, pie charts, box-and-whisker plots, and a  multiple-line graph. (Matplotlib)
     - Created a summary DataFrame of the ride sharing data by city type. (Pandas)
-    - Created a multiple-line graph that shows the total weekly fares for each city type. (Pandas, Matplotlib)
+    
 
 ## Resources
 
@@ -22,10 +33,11 @@ For this project, I analyzed data for ride sharing services to determine how oft
 - Python 3.7.11
 - Jupyter Notebook 6.4.5
 
-### Data
+### Data/Sources
 - city_data.csv
 - ride_data.csv
 - PyBer_ride_data.csv
+- https://matplotlib.org/ 
 
 ## Results
     
