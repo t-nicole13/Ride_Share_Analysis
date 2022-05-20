@@ -29,9 +29,12 @@ For this project, I analyzed data for ride sharing services to determine how oft
 
 ## Results
     
-### Summary of Ride Sharing Data By City Type
+### Ride Sharing Data By City Type
 
 ![PyBer_Summary](https://user-images.githubusercontent.com/33010018/150711580-5ac53f8f-8131-4934-8dd6-152bdea5ebff.png)
+
+![image](https://user-images.githubusercontent.com/33010018/169484450-40b02f02-58b9-499a-9f91-6048ca13a818.png)
+
 
  - Urban cities have the highest total number of drivers, total number of riders, and total fare price. 
  - Rural cities have a higher average fare price.
