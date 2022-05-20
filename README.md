@@ -33,11 +33,12 @@ For this project, I analyzed data for ride sharing services to determine how oft
 
 ![PyBer_Summary](https://user-images.githubusercontent.com/33010018/150711580-5ac53f8f-8131-4934-8dd6-152bdea5ebff.png)
 
-### Month Total Fares By City Type
+### Monthly Total Fares By City Type
 
 ![image](https://user-images.githubusercontent.com/33010018/169484450-40b02f02-58b9-499a-9f91-6048ca13a818.png)
 
-### Average Fares By City Type
+### Average Fares Vs. Driver Count By City Type
+Note: Circle size correlates with the driver count per city.
 
 ![image](https://user-images.githubusercontent.com/33010018/169485680-f6155e87-62f7-425c-a88d-283164ae09c6.png)
 
