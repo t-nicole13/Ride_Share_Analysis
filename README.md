@@ -35,6 +35,11 @@ For this project, I analyzed data for ride sharing services to determine how oft
 
 ![image](https://user-images.githubusercontent.com/33010018/169484450-40b02f02-58b9-499a-9f91-6048ca13a818.png)
 
+Average Fare Price
+
+![image](https://user-images.githubusercontent.com/33010018/169485680-f6155e87-62f7-425c-a88d-283164ae09c6.png)
+
+
 
  - Urban cities have the highest total number of drivers, total number of riders, and total fare price. 
  - Rural cities have a higher average fare price.
