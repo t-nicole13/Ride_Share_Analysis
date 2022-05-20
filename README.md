@@ -1,50 +1,51 @@
-# PyBer_Analysis
+# Ride_Share_Analysis
 
-## Original Objective
+## Objective
 
-- Goal: Improve access to ride-sharing services and determine affordability for underserved neighborhoods.
-- Tasks:
-    - Analyze all ride-share date at PyBer from Jan to early May 2019.
-    - Create a visualization of my findings.
+For this project, I analyzed data for ride sharing services to determine how often different types of cities use this service.  My goal is to figure out how ride sharing can be increased in underserved areas. 
 
-## New Objective   
-- Tasks
-    - Create a summary DataFrame of the ride-sharing data by city type.
-    - Create a multiple-line graph that shows the total weekly fares for each city type. (Pandas, Matplotlib)
-    - Submit a written report that summarizes how the data differs by city type and how those differences can be used by the decision-makers at PyBer.
-
-- Deliverable 1: groupby(), count(), map(), sum()
-- Deliverable 2: object-oriented interface method, annotations, groupby(), sum(), pivot(), resample()
-- Deliverable 3: README.md
+### Tasks:
+    - Analyzed all ride share data from Jan to early May 2019.
+    - Created a visualization of my findings. (Matplotlib)
+    - Created a summary DataFrame of the ride sharing data by city type. (Pandas)
+    - Created a multiple-line graph that shows the total weekly fares for each city type. (Pandas, Matplotlib)
 
 ## Resources
 
-- Libraries: Matplotlib 3.5.0 (graphing), Numpy 1.20.3 (numerical mathematics), Pandas 1.3.5 (data analysis), SciPy 1.7.3 (mathematical computing)
-- Sofware: Python 3.7.11, Jupyter Notebook 6.4.5
+### Libraries
+- Matplotlib 3.5.0 (graphing)
+- Numpy 1.20.3 (numerical mathematics)
+- Pandas 1.3.5 (data analysis)
+- SciPy 1.7.3 (mathematical computing)
+
+### Sofware 
+- Python 3.7.11
+- Jupyter Notebook 6.4.5
+
+### Data
 - city_data.csv
 - ride_data.csv
 - PyBer_ride_data.csv
 
-## Original Results
-- Statistical Analysis by City Type
-    - Urban cities have the highest driver, rider, and fare count. However, rural cities have a higher average fare.
-    - Rural cities have the lowest driver, rider, and fare count.
+## Results
+    
+### Summary of Ride Sharing Data By City Type
 
-## New Results
-- Summary of ride-sharing data by city type
-- 
 ![PyBer_Summary](https://user-images.githubusercontent.com/33010018/150711580-5ac53f8f-8131-4934-8dd6-152bdea5ebff.png)
 
+ - Urban cities have the highest total number of drivers, total number of riders, and total fare price. 
+ - Rural cities have a higher average fare price.
+ - Rural cities have the lowest driver count, rider count, and total fare price.
 
-- Total weekly fares for each city type
-- 
+
+### Total Weekly Fares For Each City Type
+ 
 ![Fares_by_wk](https://user-images.githubusercontent.com/33010018/150711594-c7645b74-8444-40cf-a727-cbb90e197f57.png)
 
 - Urban cities have the highest total fares per week and the lowest average fare per ride ($24.53).
-- Rural cities have the lowest total fare per week and the higest average fare per ride ($34.62)
+- Rural cities have the lowest total fares per week and the higest average fare per ride ($34.62)
 
-## Summary
-- We could increase the total rides in rural cities by decreasing the fare.
-- We could increase the total rides in rural cities by increasing the total number of drivers in rural areas.
-- We could increase the fare in the suburbs and decrease the fare in the rural areas.
-- Since urban cities are usually more densely populated, we could decrease the fare and maybe more people will use our service.
+## Analysis On How We Can Increase Ride Sharing 
+- We could increase the total number of rides in rural cities by decreasing the fare price.
+- We could increase the total number of rides in rural cities by increasing the total number of drivers in rural areas.
+- Since urban cities are usually more densely populated, we could decrease the fare price and maybe more people will use ride sharing services.
