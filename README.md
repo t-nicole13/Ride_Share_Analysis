@@ -38,6 +38,8 @@ For this project, I analyzed data for ride sharing services to determine how oft
  - Rural cities have the lowest driver count, rider count, and total fare price.
 
 
+
+
 ### Total Weekly Fares For Each City Type
  
 ![Fares_by_wk](https://user-images.githubusercontent.com/33010018/150711594-c7645b74-8444-40cf-a727-cbb90e197f57.png)
