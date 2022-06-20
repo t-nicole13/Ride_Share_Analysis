@@ -1,8 +1,7 @@
 # Ride_Share_Analysis
 
 ## Objective
-
-For this project, I analyzed data for ride sharing services to determine how often different types of cities use this service.  My goal is to figure out how ride sharing can be increased in underserved areas. 
+I analyzed data for ride sharing services to determine how often different types of cities use this service.  My goal is to figure out how ride sharing can be increased in underserved areas. 
 
 This project marks the first time I used Matplotlib.  Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.  Matplotlib can be used to do the following:
 
