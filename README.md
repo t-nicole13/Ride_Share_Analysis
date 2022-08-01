@@ -27,9 +27,9 @@ I also used Numpy and SciPy to get the measures of central tendency and summary 
 - Numpy 1.20.3 (numerical mathematics)
 - Pandas 1.3.5 (data analysis)
 - SciPy 1.7.3 (mathematical computing)
-
-### Sofware 
 - Python 3.7.11
+
+### Software 
 - Jupyter Notebook 6.4.5
 
 ### Data/Sources
